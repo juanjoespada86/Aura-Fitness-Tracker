@@ -1,0 +1,8 @@
+{
+  "name": "AURA Fitness Tracker",
+  "description": "Próxima generación de seguimiento de fitness con IA, diseñado para iPhone. Registra entrenamientos, métricas corporales y recibe análisis avanzados.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
